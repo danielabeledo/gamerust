@@ -1,0 +1,8 @@
+[package]
+name = "gamerust"
+version = "0.1.0"
+authors = ["Daniel Abeledo <daniel@abeledo.xyz>"]
+edition = "2018"
+
+[dependencies]
+pixel_engine = "0.3.5"
